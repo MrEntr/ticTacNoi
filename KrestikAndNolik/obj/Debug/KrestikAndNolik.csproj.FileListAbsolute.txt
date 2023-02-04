@@ -1,0 +1,16 @@
+C:\Users\Entr\source\repos\KrestikAndNolik\KrestikAndNolik\bin\Debug\KrestikAndNolik.exe.config
+C:\Users\Entr\source\repos\KrestikAndNolik\KrestikAndNolik\bin\Debug\KrestikAndNolik.exe
+C:\Users\Entr\source\repos\KrestikAndNolik\KrestikAndNolik\bin\Debug\KrestikAndNolik.pdb
+C:\Users\Entr\source\repos\KrestikAndNolik\KrestikAndNolik\obj\Debug\KrestikAndNolik.csproj.AssemblyReference.cache
+C:\Users\Entr\source\repos\KrestikAndNolik\KrestikAndNolik\obj\Debug\KrestikAndNolik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Entr\source\repos\KrestikAndNolik\KrestikAndNolik\obj\Debug\MainWindow.g.cs
+C:\Users\Entr\source\repos\KrestikAndNolik\KrestikAndNolik\obj\Debug\App.g.cs
+C:\Users\Entr\source\repos\KrestikAndNolik\KrestikAndNolik\obj\Debug\KrestikAndNolik_MarkupCompile.cache
+C:\Users\Entr\source\repos\KrestikAndNolik\KrestikAndNolik\obj\Debug\KrestikAndNolik_MarkupCompile.lref
+C:\Users\Entr\source\repos\KrestikAndNolik\KrestikAndNolik\obj\Debug\MainWindow.baml
+C:\Users\Entr\source\repos\KrestikAndNolik\KrestikAndNolik\obj\Debug\KrestikAndNolik.g.resources
+C:\Users\Entr\source\repos\KrestikAndNolik\KrestikAndNolik\obj\Debug\KrestikAndNolik.Properties.Resources.resources
+C:\Users\Entr\source\repos\KrestikAndNolik\KrestikAndNolik\obj\Debug\KrestikAndNolik.csproj.GenerateResource.cache
+C:\Users\Entr\source\repos\KrestikAndNolik\KrestikAndNolik\obj\Debug\KrestikAndNolik.csproj.CoreCompileInputs.cache
+C:\Users\Entr\source\repos\KrestikAndNolik\KrestikAndNolik\obj\Debug\KrestikAndNolik.exe
+C:\Users\Entr\source\repos\KrestikAndNolik\KrestikAndNolik\obj\Debug\KrestikAndNolik.pdb
